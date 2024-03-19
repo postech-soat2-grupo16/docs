@@ -30,8 +30,13 @@ pois ele é mais flexível e escalável, além de ser mais fácil de implementar
 Acessar relatório: [Relatório RIPD](relatorio_ripd/relatorioripd.md)
 ## Relatório Vulnerabilidade
 Acessar relatório: [Relatório Vulnerabilidade](https://github.com/postech-soat2-grupo16/docs/tree/main/vulnerability-report)
+
+** Para visualizar o desenho, basta abrir o arquivo index.html no navegador.
+
 ## Desenho de Arquitetura
 Desenho da arquitetura: [Arquitetura](desenhoarquitetura/index.html)
+
+** Para visualizar o desenho, basta abrir o arquivo index.html no navegador.
 
 ** O desenho também está explicado no vídeo abaixo.
 ## Video de apresentação
